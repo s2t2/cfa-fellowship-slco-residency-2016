@@ -2,8 +2,6 @@
 
 This document describes data posted as part of the Victim Information and Notification Everyday (VINE) system.
 
-> NOTE: The files contain hearing information for all courts statewide.
-
 ## `Case`
 
 attribute | description
