@@ -1,4 +1,4 @@
-## Data Exploration
+## Data Services
 
 ### Utah Court Calendars
 
@@ -6,17 +6,9 @@ Court hearing schedules are posted online in .pdf format to https://www.utcourts
  This includes courts outside of Salt Lake County.
  There are two general types of courts: District Courts and Justice Courts.
 
-Page counts for each hearing schedule .pdf roughly approximate volume of hearings per county. Many hearings span across more than one page.
-
-Do these lists represent a comprehensive universe of courts?
-
-#### District Court Calendars
+[District Court Calendars](https://www.utcourts.gov/cal/#dist) (35)
 
 > These calendars list all scheduled court activity for a two-week period. Court calendars are updated daily.
-
-There are 35 District Courts.
-
-
 
 district_court_name	|	shedule_page_count_20160211
 ---	|	---
@@ -57,9 +49,7 @@ Junction	|	1
 Loa	|	1
 
 
-#### Justice Court Calendars
-
-There are 125 justice courts.
+[Justice Court Calendars](https://www.utcourts.gov/cal/#just) (125)
 
 > These Justice Courts have requested their court calendars be posted here. Court calendars from other Justice Courts will be posted as available. Court calendars are updated daily.
 
@@ -188,8 +178,3 @@ West Jordan
 West Valley City
 Willard
 Woods Cross
-
-
-
-
-### Victim Information and Notification Everyday (VINE)
